@@ -1,0 +1,14 @@
+# Configuration for git attributes 
+
+* text=auto
+public/index.html linguist-vendored
+
+*.png binary
+*.ts linguist-detectable
+src/** linguist-detectable
+*.ico binary
+
+*.woff binary
+
+*.html linguist-vendored   
+# eof fddbcb7f
